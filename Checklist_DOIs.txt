@@ -1,0 +1,106 @@
+CHECKLIST DE VERIFICACIÓN DE DOIs
+Artículo: Sostenibilidad, Economía Circular y ESG en la manufactura moderna
+Cómo verificar: abre cada enlace https://doi.org/... ; debe llevarte al artículo correcto.
+
+========================================================
+PRIORIDAD 1 — VERIFICAR SÍ O SÍ (localizadas por búsqueda web, 31)
+Estas NO vienen de tu export de Scopus; confírmalas una por una.
+========================================================
+[ ] Abbas, Z., & Myeong, S. (2024) — https://doi.org/10.3390/su16104232
+[ ] Atif, S. (2023) — https://doi.org/10.1002/sd.2542
+[ ] Berg, F., Koelbel, J. F., & Rigobon, R. (2022) — https://doi.org/10.1093/rof/rfac033
+[ ] Centoamore, P., & Pinto, L. F. R. (2024) — https://doi.org/10.3390/su16083109
+[ ] Ching, N. T., Ghobakhloo, M., Iranmanesh, M., Maroufkhani, P., & Asadi, S. (2022) — https://doi.org/10.1016/j.jclepro.2021.130133
+[ ] Dacre, N., Yan, J., Frei, R., Al-Mhdawi, M. K. S., & Dong, H. (2024) — https://doi.org/10.1080/09537287.2024.2380361
+[ ] Duan, Y., Yang, F., & Xiong, L. (2023) — https://doi.org/10.3390/su151712858  ⚠ revisar también páginas/volumen/iniciales
+[ ] Findik, D., Tirgil, A., & Özbuğday, F. C. (2023) — https://doi.org/10.1016/j.jclepro.2023.137281
+[ ] Hettler, M., & Graf-Vlachy, L. (2024) — https://doi.org/10.1002/bse.3486
+[ ] Ivanov, D. (2023) — https://doi.org/10.1080/00207543.2022.2118892
+[ ] Jensen, S. F., Kristensen, J. H., Adamsen, S., Christensen, A., & Waehrens, B. V. (2023) — https://doi.org/10.1016/j.spc.2023.02.021
+[ ] Khan, M., Ajmal, M. M., Jabeen, F., Talwar, S., & Dhir, A. (2023) — https://doi.org/10.1002/bse.3207  ⚠ revisar también páginas/volumen/iniciales
+[ ] Langley, D. J., Rosca, E., Angelopoulos, M., Kamminga, O., & Hooijer, C. (2023) — https://doi.org/10.1016/j.jbusres.2023.114259
+[ ] Leng, J., Sha, W., Wang, B., Zheng, P., Zhuang, C., Liu, Q., Wuest, T., Mourtzis, D., & Wang, L. (2022) — https://doi.org/10.1016/j.jmsy.2022.09.017
+[ ] Maddikunta, P. K. R., Pham, Q.-V., Prabadevi, B., Deepa, N., Dev, K., Gadekallu, T. R., Ruby, R., & Liyanage, M. (2022) — https://doi.org/10.1016/j.jii.2021.100257
+[ ] Maheshwari, S., Jaggi, C. K., & Gautam, P. (2025) — https://doi.org/10.1007/s10479-025-06619-3  ⚠ revisar también páginas/volumen/iniciales
+[ ] Nureen, N., Sun, H., Irfan, M., Nuta, A. C., & Malik, M. (2023) — https://doi.org/10.1007/s11356-023-27796-3  ⚠ revisar también páginas/volumen/iniciales
+[ ] Patyal, V. S., Sarma, P. R. S., Modgil, S., Nag, T., & Dennehy, D. (2022) — https://doi.org/10.1108/JEIM-05-2021-0197  ⚠ revisar también páginas/volumen/iniciales
+[ ] Psarommatis, F., & May, G. (2024) — https://doi.org/10.3390/su16010396
+[ ] Qian, C., Gao, Y., & Chen, L. (2023) — https://doi.org/10.3390/pr11071999
+[ ] Saharan, A., Samadhiya, A., Kumar, A., Pandey, K. K., Luthra, S., & Garza-Reyes, J. A. (2023) — https://doi.org/10.1108/MD-02-2023-0269
+[ ] Sahoo, S., & Jakhar, S. K. (2024) — https://doi.org/10.1002/bse.3542
+[ ] Stenzel, A., & Waichman, I. (2023) — https://doi.org/10.1038/s44168-023-00032-x
+[ ] Taddei, E., Sassanelli, C., Rosa, P., & Terzi, S. (2022) — https://doi.org/10.1016/j.cie.2022.108268
+[ ] Voulgaridis, K., Lagkas, T., Angelopoulos, C. M., Boulogeorgos, A.-A. A., Argyriou, V., & Sarigiannidis, P. (2024) — https://doi.org/10.1007/s11235-024-01104-x
+[ ] Wang, J., Hong, Z., & Long, H. (2023) — https://doi.org/10.1177/21582440231204158
+[ ] Wang, Y., & Ozturk, I. (2023) — https://doi.org/10.1080/1331677X.2023.2192769
+[ ] Wiredu, J., Yang, Q., Sampene, A. K., Gyamfi, B. A., & Asongu, S. A. (2024) — https://doi.org/10.1002/bse.3606
+[ ] Yang, J., Zuo, Z., Li, Y., & Guo, H. (2024) — https://doi.org/10.1016/j.jenvman.2024.123244  ⚠ revisar también páginas/volumen/iniciales
+[ ] Ye, J., & Xu, W. (2023) — https://doi.org/10.3389/fevo.2023.1311777
+[ ] Yin, F., Xiao, Y., Cao, R., & Zhang, J. (2023) — https://doi.org/10.3390/su152115296
+
+========================================================
+PRIORIDAD 2 — SIN DOI: localiza el enlace (4)
+========================================================
+[ ] Behera, U. S., & Poddar, S. (2026) — SIN DOI (capítulo/informe): busca el enlace o confirma el capítulo
+[ ] Ellen MacArthur Foundation. (2013) — SIN DOI (capítulo/informe): busca el enlace o confirma el capítulo
+[ ] Prakash, N., Dharshne, M., Karthikeyan, P., Sree, A. K., & Krishnashree, S. (2026) — SIN DOI (capítulo/informe): busca el enlace o confirma el capítulo
+[ ] World Business Council for Sustainable Development, & World Resources Institute. (2011) — SIN DOI (capítulo/informe): busca el enlace o confirma el capítulo
+
+========================================================
+FIABLES — de TU export de Scopus (26). Chequeo rápido opcional.
+========================================================
+[ ] Akram, H. W. (2026) — https://doi.org/10.1108/IJIEOM-10-2025-0257
+[ ] Baratsas, S. G., Pistikopoulos, E. N., & Avraamidou, S. (2022) — https://doi.org/10.1016/j.compchemeng.2022.107697
+[ ] Betts, K., Gutierrez-Franco, E., & Ponce-Cueto, E. (2022) — https://doi.org/10.3389/frsus.2022.910215
+[ ] Falih, S., Echefaj, K., Cherrafi, A., & Charkaoui, A. (2026) — https://doi.org/10.1007/978-3-032-18548-8_13
+[ ] Farrokhi, M., Gatti, M., & Bahrini, A. (2026) — https://doi.org/10.1016/j.sca.2026.100196
+[ ] Feng, K., Ning, W., Peng, Y., & Zhang, S. (2026) — https://doi.org/10.23967/j.rimni.2025.10.73877
+[ ] Hernandez Marquina, M. V., Le Dain, M.-A., Zwolinski, P., & Joly, I. (2022) — https://doi.org/10.1016/j.procir.2022.02.101
+[ ] Iyiola, K. (2026) — https://doi.org/10.55845/joce-2026-34249
+[ ] Jadallah, N. I., Dudin, F. E., & Awwad, B. (2026) — https://doi.org/10.1007/978-981-95-6469-9_8
+[ ] Khan, A. A., & Abonyi, J. (2022) — https://doi.org/10.3390/su14159796
+[ ] Lahane, S., & Kant, R. (2022) — https://doi.org/10.1016/j.wasman.2022.02.016
+[ ] Li, Z., Han, X., & Zhang, T. (2026) — https://doi.org/10.1016/j.jclepro.2026.148878
+[ ] Mesbahi, Z., Pellegrini, T., & Roiser, S. (2026) — https://doi.org/10.1007/978-3-032-24395-9_8
+[ ] Munonye, W. C., & Munonye, D. I. (2026) — https://doi.org/10.3389/frsus.2025.1588374
+[ ] Panagiotopoulou, V. C., Giannoulis, C., & Stavropoulos, P. (2026) — https://doi.org/10.1016/j.procir.2026.03.210
+[ ] Pawar, P. S., & Alsedais, B. A. (2026) — https://doi.org/10.3390/su18031393
+[ ] Pourjafarian, M., Farrukh, A., Rezapour, M., Plociennik, C., & Ruskowski, M. (2026) — https://doi.org/10.1016/j.procs.2026.02.366
+[ ] Rao, K. S., Rao, S. G., Rao, U. V. A., & Baburao, C. (2026) — https://doi.org/10.4018/979-8-3373-7143-6.ch004
+[ ] Rodríguez-Mañay, L. O., Guaita-Pradas, I., & Marques-Perez, I. (2026) — https://doi.org/10.1002/sd.70855
+[ ] Roy, M., Maruf, N., & Salimullah, A. H. M. (2026) — https://doi.org/10.1201/9781003770008-12
+[ ] Sadiq, M., Nisar, Q. A., Kautish, P., Sarma, P. R. S., & Haider, S. (2026) — https://doi.org/10.1016/j.technovation.2026.103653
+[ ] Sahidu Jawula Mandego, A., Owusu Kwateng, K., Tetteh, F. K., & Manu, D. (2026) — https://doi.org/10.1108/IJLM-07-2025-0455
+[ ] Saroha, M., Garg, D., & Luthra, S. (2022) — https://doi.org/10.1007/s13198-021-01482-4
+[ ] Shahzad, F., Ben Zaied, Y., & Zhang, Q. (2026) — https://doi.org/10.1016/j.ijpe.2025.109859
+[ ] Singh, R., Leal, W., Kumar, V., & Ali, A. (2026) — https://doi.org/10.1007/978-3-032-13412-7_1
+[ ] Theeraworawit, M., Suriyankietkaew, S., & Hallinger, P. (2022) — https://doi.org/10.3390/su14159304
+
+========================================================
+CLÁSICAS/SEMINALES (≤2021, 25). Muy conocidas; riesgo bajo.
+========================================================
+[ ] Adisorn, T., Tholen, L., & Götz, T. (2021) — https://doi.org/10.3390/en14082289
+[ ] Bai, C., Dallasega, P., Orzes, G., & Sarkis, J. (2020) — https://doi.org/10.1016/j.ijpe.2020.107776
+[ ] Bocken, N. M. P., de Pauw, I., Bakker, C., & van der Grinten, B. (2016) — https://doi.org/10.1080/21681015.2016.1172124
+[ ] Carter, C. R., & Rogers, D. S. (2008) — https://doi.org/10.1108/09600030810882816
+[ ] Friede, G., Busch, T., & Bassen, A. (2015) — https://doi.org/10.1080/20430795.2015.1118917
+[ ] Geissdoerfer, M., Savaget, P., Bocken, N. M. P., & Hultink, E. J. (2017) — https://doi.org/10.1016/j.jclepro.2016.12.048
+[ ] Ghobakhloo, M. (2020) — https://doi.org/10.1016/j.jclepro.2019.119869
+[ ] Gillan, S. L., Koch, A., & Starks, L. T. (2021) — https://doi.org/10.1016/j.jcorpfin.2021.101889
+[ ] Govindan, K., Soleimani, H., & Kannan, D. (2015) — https://doi.org/10.1016/j.ejor.2014.07.012
+[ ] Hertwich, E. G., & Wood, R. (2018) — https://doi.org/10.1088/1748-9326/aae19a
+[ ] Khan, M., Serafeim, G., & Yoon, A. (2016) — https://doi.org/10.2308/accr-51383
+[ ] Kirchherr, J., Reike, D., & Hekkert, M. (2017) — https://doi.org/10.1016/j.resconrec.2017.09.005
+[ ] Lieder, M., & Rashid, A. (2016) — https://doi.org/10.1016/j.jclepro.2015.12.042
+[ ] Moher, D., Liberati, A., Tetzlaff, J., & Altman, D. G. (2009) — https://doi.org/10.1371/journal.pmed.1000097
+[ ] Nahavandi, S. (2019) — https://doi.org/10.3390/su11164371
+[ ] Nascimento, D. L. M., Alencastro, V., Quelhas, O. L. G., Caiado, R. G. G., Garza-Reyes, J. A., Rocha-Lona, L., & Tortorella, G. (2019) — https://doi.org/10.1108/JMTM-03-2018-0071
+[ ] Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., … Moher, D. (2021) — https://doi.org/10.1136/bmj.n71
+[ ] Rajput, S., & Singh, S. P. (2019) — https://doi.org/10.1016/j.ijinfomgt.2019.03.002
+[ ] Sarkis, J., Zhu, Q., & Lai, K.-H. (2011) — https://doi.org/10.1016/j.ijpe.2010.11.010
+[ ] Seuring, S., & Müller, M. (2008) — https://doi.org/10.1016/j.jclepro.2008.04.020
+[ ] Srivastava, S. K. (2007) — https://doi.org/10.1111/j.1468-2370.2007.00202.x
+[ ] Stahel, W. R. (2016) — https://doi.org/10.1038/531435a
+[ ] Tseng, M.-L., Islam, M. S., Karia, N., Fauzi, F. A., & Afrin, S. (2019) — https://doi.org/10.1016/j.resconrec.2018.10.009
+[ ] Xu, X., Lu, Y., Vogel-Heuser, B., & Wang, L. (2021) — https://doi.org/10.1016/j.jmsy.2021.10.006
+[ ] Zhu, Q., Sarkis, J., & Lai, K.-H. (2008) — https://doi.org/10.1016/j.ijpe.2006.11.029
